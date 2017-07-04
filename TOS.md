@@ -16,7 +16,7 @@ These Terms of Service (“Terms”) govern your access to and use of our servic
 You may use the Services only if you agree to form a binding contract with SLAENT and are not a person barred from receiving services under the laws of the applicable jurisdiction. If you are accepting these Terms and using the Services on behalf of a company, organization, government, or other legal entity, you represent and warrant that you are authorized to do so.
 
 ### 2. Privacy ###
-Our [Privacy Policy](http://slaent.com/privacy-policy) describes how we handle the information you provide to us when you use our Services. You understand that through your use of the Services you consent to the collection and use (as set forth in the Privacy Policy) of this information, including the transfer of this information to the United States, and/or other countries for storage, processing and use by SLAENT and its affiliates.
+Our [Privacy Policy](/privacy-policy) describes how we handle the information you provide to us when you use our Services. You understand that through your use of the Services you consent to the collection and use (as set forth in the Privacy Policy) of this information, including the transfer of this information to the United States, and/or other countries for storage, processing and use by SLAENT and its affiliates.
 
 ### 3. Content on the Services ###
 You are responsible for your use of the Services and for any Content you provide, including compliance with applicable laws, rules, and regulations. You should only provide Content that you are comfortable sharing with others.
@@ -33,7 +33,7 @@ By submitting, posting or displaying Content on or through the Services, you gra
 SLAENT has an evolving set of rules for how ecosystem partners can interact with your Content on the Services. These rules exist to enable an open ecosystem with your rights in mind. You understand that we may modify or adapt your Content as it is distributed, syndicated, published, or broadcast by us and our partners and/or make changes to your Content in order to adapt the Content to different media. You represent and warrant that you have all the rights, power and authority necessary to grant the rights granted herein to any Content that you submit.
 
 ### 4. Using the Services ###
-Please review the (#USER RULES HERE#), which are part of the User Agreement and outline what is prohibited on the Services. You may use the Services only in compliance with these Terms and all applicable laws, rules and regulations.
+Please review the [User Rules](/rules), which are part of the User Agreement and outline what is prohibited on the Services. You may use the Services only in compliance with these Terms and all applicable laws, rules and regulations.
 
 Our Services evolve constantly. As such, the Services may change from time to time, at our discretion. We may stop (permanently or temporarily) providing the Services or any features within the Services to you or to users generally. We also retain the right to create limits on use and storage at our sole discretion at any time. We may also remove or refuse to distribute any Content on the Services, suspend or terminate users, and reclaim usernames without liability to you.
 
@@ -66,7 +66,7 @@ THE SLAENT ENTITIES SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, C
 SOME JURISDICTIONS DO NOT ALLOW EXCLUSION OF IMPLIED WARRANTIES OR LIMITATIONS ON THE DURATION OF IMPLIED WARRANTIES, SO THE ABOVE DISCLAIMERS MAY NOT APPLY TO YOU IN THEIR ENTIRETIES, BUT WILL APPLY TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW.
 
 ### 6. General ###
-We may revise these Terms from time to time. The changes will not be retroactive, and the most current version of the Terms, which will always be at [http://slaent.com/terms-of-service], will govern our relationship with you. We will try to notify you of material revisions, for example via a service notification or an email to the email associated with your account. By continuing to access or use the Services after those revisions become effective, you agree to be bound by the revised Terms.
+We may revise these Terms from time to time. The changes will not be retroactive, and the most current version of the Terms, which will always be at [http://slaent.com/terms-of-service](), will govern our relationship with you. We will try to notify you of material revisions, for example via a service notification or an email to the email associated with your account. By continuing to access or use the Services after those revisions become effective, you agree to be bound by the revised Terms.
 
 In the event that any provision of these Terms is held to be invalid or unenforceable, then that provision will be limited or eliminated to the minimum extent necessary, and the remaining provisions of these Terms will remain in full force and effect. SLAENT's failure to enforce any right or provision of these Terms will not be deemed a waiver of such right or provision.
 
