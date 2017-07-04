@@ -66,7 +66,7 @@ THE SLAENT ENTITIES SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, C
 SOME JURISDICTIONS DO NOT ALLOW EXCLUSION OF IMPLIED WARRANTIES OR LIMITATIONS ON THE DURATION OF IMPLIED WARRANTIES, SO THE ABOVE DISCLAIMERS MAY NOT APPLY TO YOU IN THEIR ENTIRETIES, BUT WILL APPLY TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW.
 
 ### 6. General ###
-We may revise these Terms from time to time. The changes will not be retroactive, and the most current version of the Terms, which will always be at (#SLAENT TOS URL#) slaent.com/tos, will govern our relationship with you. We will try to notify you of material revisions, for example via a service notification or an email to the email associated with your account. By continuing to access or use the Services after those revisions become effective, you agree to be bound by the revised Terms.
+We may revise these Terms from time to time. The changes will not be retroactive, and the most current version of the Terms, which will always be at (#SLAENT TOS URL#), will govern our relationship with you. We will try to notify you of material revisions, for example via a service notification or an email to the email associated with your account. By continuing to access or use the Services after those revisions become effective, you agree to be bound by the revised Terms.
 
 In the event that any provision of these Terms is held to be invalid or unenforceable, then that provision will be limited or eliminated to the minimum extent necessary, and the remaining provisions of these Terms will remain in full force and effect. SLAENT's failure to enforce any right or provision of these Terms will not be deemed a waiver of such right or provision.
 
